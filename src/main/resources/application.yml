@@ -1,0 +1,15 @@
+telegram:
+    botName: "@walikk_creator_bot"
+    botToken: <->
+    webhookPath: <->
+messages:
+    help: "Send me phone number in international format, for example: +78005553535, +7 800-555-35-35, +7(800)555-35-35"
+    start: "Send me phone number in international format, for example: +78005553535, +7 800-555-35-35, +7(800)555-35-35"
+    error: "Phone number is incorrect. Use an international format, for example: +78005553535, +7 800-555-35-35, +7(800)555-35-35"
+    noText: 🤡
+server:
+    port: 80
+    ssl:
+        enabled: true
+        certificate-private-key: <->
+        certificate: <->
